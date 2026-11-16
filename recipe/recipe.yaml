@@ -14,7 +14,7 @@ source:
     target_directory: "./"
 
 build:
-  number: 0
+  number: 1
   script:
     - if: win
       then: |
